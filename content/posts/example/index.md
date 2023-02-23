@@ -1,10 +1,10 @@
 +++
-title = "Example Post"
-date = "2023-01-01"
+title = "Der Erste Post"
+date = "2023-01-02"
 draft = false
 pinned = false
-tags = [ "Lilo", "Example" ]
-image = "/img/default-image.jpg"
+tags = []
+image = "683522_iaasg_8080_001_070_0036_light.avif"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
