@@ -1,7 +1,7 @@
 +++
 title = "Test 2"
 date = "2023-03-18"
-draft = false
+draft = true
 pinned = false
 +++
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;background:white;'><span style='font-size:19px;font-family:"Calibri Light",sans-serif;color:#333333;'>Gender Diktatur einer intellektuellen Minderheit</span></p>
