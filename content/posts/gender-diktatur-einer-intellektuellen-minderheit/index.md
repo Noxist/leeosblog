@@ -666,19 +666,17 @@ description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Int
 
 <!--StartFragment-->
 
-**Interview mit W. Salzmann: "Gender Diktatur einer intellektuellen Minderheit"**
-
 **Ein Interview mit dem Berner SVP Nationalrat Werner Salzmann zeigt seine Sicht auf die Sensibilisierung für das Thema der Gleichberechtigung und die Veränderungen im Sprachbereich. Die SVP hat der sogenannten «woke Kultur» den Kampf angesagt. Herr Salzmann ist aber auch persönlich ein Gegner des «gender Wahnsinns» Herr Salzmann ist besorgt über die "Gender Diktatur" einer intellektuellen Minderheit und befürwortet die Entscheidung der Bundeskanzlei, den Genderstern zu verbieten. Trotzdem glaubt er, dass Gleichberechtigung in der Schweiz bereits Alltag ist, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt.**
 
 ![](whatsapp-bild-2023-03-18-um-17.46.35.jpg)
 
 **Hat sich Ihre Arbeit durch die Sensibilisierung für das Thema der Gleichberechtigung verändert?**
 
-W. Salzmann: Eigentlich nicht. Es ist die Sensibilisierung im Sprachbereich, die mich am meisten stört. Wenn ich höre, wie Dinge ausgesprochen werden und erfahre, dass es Personen gibt, welche erwarten, dass die Allgemeinheit diese Formen übernehmen sollen, muss ich nur den Kopf schütteln. Bis jetzt war Gleichberechtigung für mich normal. Zu Hause habe ich zwei Töchter und zwei Söhne, die alle gleichbehandelt werden. Es war nie ein Thema, dass jemand diskriminiert werden würde.
+**W. Salzmann:** Eigentlich nicht. Es ist die Sensibilisierung im Sprachbereich, die mich am meisten stört. Wenn ich höre, wie Dinge ausgesprochen werden und erfahre, dass es Personen gibt, welche erwarten, dass die Allgemeinheit diese Formen übernehmen sollen, muss ich nur den Kopf schütteln. Bis jetzt war Gleichberechtigung für mich normal. Zu Hause habe ich zwei Töchter und zwei Söhne, die alle gleichbehandelt werden. Es war nie ein Thema, dass jemand diskriminiert werden würde.
 
 **Machen Sie sich aufgrund der Sensibilisierung Sorgen, dass Ihnen ein Fehler passieren könnte, wie dem Nationalrat Andreas Glarner, der sagte: «Recht und Ordnung Frau Arschlan, das gibt es in Ihrem Staat nicht.»?**
 
-W. Salzmann: Ich möchte nicht kommentieren, was er gesagt hat. Ich wurde so erzogen, dass man respektvoll mit anderen Menschen umgeht, und das tue ich. Deswegen mache ich mir bei diesem Punkt keine Sorgen. Was mich mehr besorgt ist, wenn eine "Intellektuelle Minderheit" der Mehrheit vorschreibt, wie sie sprechen sollte und das gesetzlich verankern will, sodass jene, die das Thema nicht verstehen oder nicht verstehen wollen, dafür bezahlen müssen.
+**W. Salzmann:** Ich möchte nicht kommentieren, was er gesagt hat. Ich wurde so erzogen, dass man respektvoll mit anderen Menschen umgeht, und das tue ich. Deswegen mache ich mir bei diesem Punkt keine Sorgen. Was mich mehr besorgt ist, wenn eine "Intellektuelle Minderheit" der Mehrheit vorschreibt, wie sie sprechen sollte und das gesetzlich verankern will, sodass jene, die das Thema nicht verstehen oder nicht verstehen wollen, dafür bezahlen müssen.
 
 **Also sind Sie wahrscheinlich ganz der Meinung der Bundeskanzlei, die den Genderstern verboten hat.**
 
