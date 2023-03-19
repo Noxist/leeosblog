@@ -6,13 +6,13 @@ pinned = false
 image = "whatsapp-bild-2023-03-18-um-17.46.35.jpg"
 description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Interview seine Sicht auf die Sensibilisierung für das Thema der Gleichberechtigung und Veränderungen im Sprachbereich. Er ist besorgt über die \"Gender Diktatur\" einer intellektuellen Minderheit und unterstützt das Verbot des Gendersterns durch die Bundeskanzlei. Trotzdem glaubt er, dass es in der Schweiz bereits Gleichberechtigung gibt, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt."
 +++
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Int
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -633,9 +633,9 @@ description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Int
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -662,15 +662,12 @@ description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Int
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 <!--StartFragment-->
 
-
-
-\
 <!--StartFragment-->
 
 {{<lead>}}
@@ -683,44 +680,30 @@ description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Int
 
 {{<lead>}}
 
-![](whatsapp-bild-2023-03-18-um-17.46.35.jpg)
+![](whatsapp-bild-2023-03-18-um-17.46.35.jpg "Selfie nach Interview mit W. Salzmann")
 
 <!--EndFragment-->
 
 Im Rahmen von einem Journalismusprojekt zum Thema Geschlecht, Persönlichkeit und Identität habe ich Politikerinnen und Politiker angefragt, ob und wie die Woke-Kultur ihre politische Arbeit beeinflusst hat. Der Berner SVP Nationalrat Werner Salzmann hat sich bereit erklärt, ein Interview zu geben. Am 02.03.23 um 7 Uhr haben wir uns in einem Café in der Nähe vom Bundeshaus getroffen. In diesem Interview teilt Herr Salzmann seine Sicht auf die Sensibilisierung für das Thema Gleichberechtigung, die Veränderungen im Sprachbereich und seine Bedenken hinsichtlich einer "Gender Diktatur" einer intellektuellen Minderheit. Er befürwortet die Entscheidung der Bundeskanzlei, den Genderstern zu verbieten, und glaubt, dass Gleichberechtigung in der Schweiz bereits Alltag ist, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt.
 
-
-
 **Hat sich Ihre Arbeit durch die Sensibilisierung für das Thema der Gleichberechtigung verändert?**
 
-Eigentlich nicht. Es ist die Sensibilisierung im Sprachbereich, die mich am meisten stört. Wenn ich höre, wie Menschen neuerdings bezeichnet und angesprochen werden sollen und erfahre, dass es Personen gibt, welche fordern, dass die Allgemeinheit diese Formen übernehmen soll, kann ich nur den Kopf schütteln. Das ist Sprachterror und nicht gelebte Gleichberechtigung. Bis jetzt war Gleichberechtigung für mich normal. Zu Hause habe ich zwei Töchter und zwei Söhne, die alle gleichbehandelt werden und sie würden auch gleichbehandelt, wenn sie sich weder als Mann noch als Frau fühlen würden. Es war nie ein Thema, dass jemand diskriminiert werden würde.
+**W. Salzmann:** Eigentlich nicht. Es ist die Sensibilisierung im Sprachbereich, die mich am meisten stört. Wenn ich höre, wie Menschen neuerdings bezeichnet und angesprochen werden sollen und erfahre, dass es Personen gibt, welche fordern, dass die Allgemeinheit diese Formen übernehmen soll, kann ich nur den Kopf schütteln. Das ist Sprachterror und nicht gelebte Gleichberechtigung. Bis jetzt war Gleichberechtigung für mich normal. Zu Hause habe ich zwei Töchter und zwei Söhne, die alle gleichbehandelt werden und sie würden auch gleichbehandelt, wenn sie sich weder als Mann noch als Frau fühlen würden. Es war nie ein Thema, dass jemand diskriminiert werden würde.
 
 **Machen Sie sich aufgrund der Sensibilisierung Sorgen, dass Ihnen ein Fehler passieren könnte, wie dem Nationalrat Andreas Glarner, der sagte: «Recht und Ordnung Frau Arschlan, das gibt es in Ihrem Staat nicht.»?**
 
-W. Salzmann: Ich möchte nicht kommentieren, was er gesagt hat. Ich wurde so erzogen, dass man respektvoll mit anderen Menschen umgeht, und das tue ich. Deswegen mache ich mir bei diesem Punkt keine Sorgen. Was mich mehr besorgt ist, wenn eine "Intellektuelle Minderheit" der Mehrheit vorschreibt, wie sie sprechen sollte und das gesetzlich verankern will, sodass jene, die das Thema nicht verstehen oder nicht verstehen wollen, dafür bezahlen müssen.
+**W. Salzmann:** Ich möchte nicht kommentieren, was er gesagt hat. Ich wurde so erzogen, dass man respektvoll mit anderen Menschen umgeht, und das tue ich. Deswegen mache ich mir bei diesem Punkt keine Sorgen. Was mich mehr besorgt ist, wenn eine "Intellektuelle Minderheit" der Mehrheit vorschreibt, wie sie sprechen sollte und das gesetzlich verankern will, sodass jene, die das Thema nicht verstehen oder nicht verstehen wollen, dafür bezahlen müssen.
 
 **Also sind Sie wahrscheinlich ganz der Meinung der Bundeskanzlei, die den Genderstern verboten hat.**
 
 Ich bin völlig einverstanden mit der Entscheidung der Bundeskanzlei. Für mich gilt der  Duden, und nach dem ist auch in der Schule zu unterrichten und sind die amtlichen Dokumente abzufassen inkl. Vorstösse etc. Alle, die den Genderstern verwenden, versuchen auf diesem Weg, die Gesellschaft zu ändern und dahingehend zu arbeiten, dass die Mehrheit die Interessen einer sehr kleinen Minderheit nicht nur berücksichtigt, sondern zur an oberste Stelle setzt. Deswegen finde ich die Entscheidung der Bundeskanzlei richtig.
 
-
-
 **Meine Schule verwendet den Genderstern. Sollte sie das unterlassen?**
 
 Ja. Meiner Meinung nach ist der Genderstern unnötig. Wenn ich sage: "Sehr geehrte Damen und Herren", spreche ich alle Personen nach biologischem Konzept an. Es kann im Alltag nicht darum gehen, jede persönliche Besonderheit im Lebensentwurf in der Sprache abzubilden. Der Genderstern verhunzt, wie gesagt, meiner Meinung nach die deutsche Sprache.
 
- 
-
 **Glauben Sie, dass wir in der Schweiz tatsächlich Gleichberechtigung haben?**
 
 Laut einer Studie des Bundesamtes für Statistik erhalten Frauen und Männer den gleichen Lohn. Die Verwaltung achtet schon lange darauf, dass das so ist. Allerdings gibt es Unterschiede, wenn Frauen Teilzeit arbeiten und Männer Vollzeit, da fällt die Bezahlung für den Mann natürlich höher aus. Es gibt mehrere Branchen, in denen sich die Geschlechterverteilung verschoben hat und es im Gegensatz zu früher mehr Frauen als Männer gibt. Auch der Frauenanteil im Parlament hat zugenommen. Dies zeigt, dass in der Schweiz die freie Wahl des Berufs gilt unabhängig vom Geschlecht. Deswegen bin ich der Meinung, dass wir in der Schweiz eine Gleichberechtigung haben.
-
- 
-
- 
-
- 
-
- 
 
 <!--EndFragment-->
