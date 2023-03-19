@@ -670,6 +670,8 @@ description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Int
 
 **Ein Interview mit dem Berner SVP Nationalrat Werner Salzmann zeigt seine Sicht auf die Sensibilisierung für das Thema der Gleichberechtigung und die Veränderungen im Sprachbereich. Die SVP hat der sogenannten «woke Kultur» den Kampf angesagt. Herr Salzmann ist aber auch persönlich ein Gegner des «gender Wahnsinns» Herr Salzmann ist besorgt über die "Gender Diktatur" einer intellektuellen Minderheit und befürwortet die Entscheidung der Bundeskanzlei, den Genderstern zu verbieten. Trotzdem glaubt er, dass Gleichberechtigung in der Schweiz bereits Alltag ist, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt.**
 
+![](whatsapp-bild-2023-03-18-um-17.46.35.jpg)
+
 **Hat sich Ihre Arbeit durch die Sensibilisierung für das Thema der Gleichberechtigung verändert?**
 
 W. Salzmann: Eigentlich nicht. Es ist die Sensibilisierung im Sprachbereich, die mich am meisten stört. Wenn ich höre, wie Dinge ausgesprochen werden und erfahre, dass es Personen gibt, welche erwarten, dass die Allgemeinheit diese Formen übernehmen sollen, muss ich nur den Kopf schütteln. Bis jetzt war Gleichberechtigung für mich normal. Zu Hause habe ich zwei Töchter und zwei Söhne, die alle gleichbehandelt werden. Es war nie ein Thema, dass jemand diskriminiert werden würde.
