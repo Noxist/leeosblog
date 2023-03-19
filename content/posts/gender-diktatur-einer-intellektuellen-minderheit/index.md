@@ -5,6 +5,7 @@ draft = false
 pinned = false
 image = "whatsapp-bild-2023-03-18-um-17.46.35.jpg"
 description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Interview seine Sicht auf die Sensibilisierung für das Thema der Gleichberechtigung und Veränderungen im Sprachbereich. Er ist besorgt über die \"Gender Diktatur\" einer intellektuellen Minderheit und unterstützt das Verbot des Gendersterns durch die Bundeskanzlei. Trotzdem glaubt er, dass es in der Schweiz bereits Gleichberechtigung gibt, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt."
+footnotes = "<!--StartFragment-->\n\nIn diesem Interview äußert sich Werner Salzmann kritisch gegenüber der Sensibilisierung im Sprachbereich und der \"Gender Diktatur\" einer intellektuellen Minderheit. Er befürwortet die Entscheidung der Bundeskanzlei, den Genderstern zu verbieten, und glaubt, dass Gleichberechtigung in der Schweiz bereits Alltag ist, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt.\n\n<!--EndFragment-->"
 +++
 <!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
@@ -674,7 +675,11 @@ description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Int
 
 <!--EndFragment-->
 
-**Ein Interview mit dem Berner SVP Nationalrat Werner Salzmann zeigt seine Sicht auf die Sensibilisierung für das Thema der Gleichberechtigung und die Veränderungen im Sprachbereich. Die SVP hat der sogenannten «woke Kultur» den Kampf angesagt. Herr Salzmann ist aber auch persönlich ein Gegner des «gender Wahnsinns» Herr Salzmann ist besorgt über die "Gender Diktatur" einer intellektuellen Minderheit und befürwortet die Entscheidung der Bundeskanzlei, den Genderstern zu verbieten. Trotzdem glaubt er, dass Gleichberechtigung in der Schweiz bereits Alltag ist, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt.**
+<!--StartFragment-->
+
+**Ein Gespräch mit dem Berner SVP Nationalrat Werner Salzmann über seine Sicht auf Gleichberechtigung, die Veränderungen im Sprachbereich und seine Bedenken hinsichtlich einer "Gender Diktatur" einer intellektuellen Minderheit. Wie steht er zur sogenannten "woke Kultur" und welche Auswirkungen hat diese auf seine politische Arbeit?**
+
+<!--EndFragment-->
 
 <!--StartFragment-->
 
@@ -705,5 +710,11 @@ Ja. Meiner Meinung nach ist der Genderstern unnötig. Wenn ich sage: "Sehr geehr
 **Glauben Sie, dass wir in der Schweiz tatsächlich Gleichberechtigung haben?**
 
 Laut einer Studie des Bundesamtes für Statistik erhalten Frauen und Männer den gleichen Lohn. Die Verwaltung achtet schon lange darauf, dass das so ist. Allerdings gibt es Unterschiede, wenn Frauen Teilzeit arbeiten und Männer Vollzeit, da fällt die Bezahlung für den Mann natürlich höher aus. Es gibt mehrere Branchen, in denen sich die Geschlechterverteilung verschoben hat und es im Gegensatz zu früher mehr Frauen als Männer gibt. Auch der Frauenanteil im Parlament hat zugenommen. Dies zeigt, dass in der Schweiz die freie Wahl des Berufs gilt unabhängig vom Geschlecht. Deswegen bin ich der Meinung, dass wir in der Schweiz eine Gleichberechtigung haben.
+
+<!--StartFragment-->
+
+In diesem Interview äußert sich Werner Salzmann kritisch gegenüber der Sensibilisierung im Sprachbereich und der "Gender Diktatur" einer intellektuellen Minderheit. Er befürwortet die Entscheidung der Bundeskanzlei, den Genderstern zu verbieten, und glaubt, dass Gleichberechtigung in der Schweiz bereits Alltag ist, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt.
+
+<!--EndFragment-->
 
 <!--EndFragment-->
