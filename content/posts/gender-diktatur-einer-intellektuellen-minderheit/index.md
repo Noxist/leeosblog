@@ -680,7 +680,7 @@ description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Int
 
 {{<lead>}}
 
-![](whatsapp-bild-2023-03-18-um-17.46.35.jpg "Selfie nach Interview mit W. Salzmann")
+![Selfie nach Interview mit W. Salzmann](whatsapp-bild-2023-03-18-um-17.46.35.jpg "Selfie nach Interview mit W. Salzmann")
 
 <!--EndFragment-->
 
