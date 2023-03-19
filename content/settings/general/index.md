@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Leandro Aeschbacher"
-description = "A Journey of Life and Learning"
+description = "Politik und anderes "
 footerLeft = ""
 footerRight = ""
 +++
