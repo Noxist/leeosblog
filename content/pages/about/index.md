@@ -8,6 +8,6 @@ description = ""
 
 ## My Name
 
-mail@example.org
+leandro.aeschbacher@gmx.ch
 
-Here should be some info about me...
+Kochen und Politik, eine tolle Mischung XD
