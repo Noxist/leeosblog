@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://leeos.netlify.app/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://leeos.netlify.app/aboutme/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://leeos.netlify.app/gender-diktatur-einer-intellektuellen-minderheit/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+</urlset>
+Diese Sitemap listet die angegebenen URLs auf und weist jeder Seite eine Änderungshäufigkeit (changefreq) und Priorität (priority) zu. Die Änderungshäufigkeit gibt an, wie oft die Seite voraussichtlich aktualisiert wird, während die Priorität die Wichtigkeit der Seite im Vergleich zu anderen Seiten auf der Website angibt. Du kannst die Werte für "changefreq" und "priority" nach Bedarf anpassen. Speichere diese Sitemap als "sitemap.xml" und lade sie in das Stammverzeichnis deiner Website hoch. Vergiss nicht, die Sitemap in der Google Search Console und anderen Webmaster-Tools einzureichen, um die Indexierung deiner Website zu fördern.
+
+
+
+
+
