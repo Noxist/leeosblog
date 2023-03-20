@@ -1,5 +1,5 @@
 +++
-title = "<h1 style=\"display:none;\">Dein Titel</h1>"
+title = "‎ "
 draft = false
 +++
 <!--StartFragment-->
