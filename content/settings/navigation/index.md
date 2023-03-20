@@ -7,5 +7,5 @@ url = "https://leeos.netlify.app/"
 
 [[link]]
 title = "About me"
-url = "https://leeos.netlify.app/"
+url = "https://leeos.netlify.app/aboutme/"
 +++
