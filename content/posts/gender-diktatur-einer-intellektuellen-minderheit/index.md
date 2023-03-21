@@ -7,13 +7,71 @@ image = "whatsapp-bild-2023-03-18-um-17.46.35.jpg"
 description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Interview seine Sicht auf die Sensibilisierung für das Thema der Gleichberechtigung und Veränderungen im Sprachbereich. Er ist besorgt über die \"Gender Diktatur\" einer intellektuellen Minderheit und unterstützt das Verbot des Gendersterns durch die Bundeskanzlei. Trotzdem glaubt er, dass es in der Schweiz bereits Gleichberechtigung gibt, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt."
 footnotes = "<!DOCTYPE html>\n\n<html lang=\"de\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Interview Werner Salzmann</title>\n</head>\n<body>\n    <p style=\"font-size: 120%;\">In diesem Interview äußert sich Werner Salzmann kritisch gegenüber der Sensibilisierung im Sprachbereich und der \"Gender Diktatur\" einer intellektuellen Minderheit. Er befürwortet die Entscheidung der Bundeskanzlei, den Genderstern zu verbieten, und glaubt, dass Gleichberechtigung in der Schweiz bereits Alltag ist, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt.</p>\n</body>\n</html>"
 +++
-<!--\\\[if gte mso 9]><xml>
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zodiac Sign Calculator</title>
+</head>
+<body>
+    <h1>Zodiac Sign Calculator</h1>
+    <form id="zodiac-form">
+        <label for="birthdate">Enter your birthdate:</label>
+        <input type="date" id="birthdate" name="birthdate">
+        <button type="button" onclick="findZodiacSign()">Find my Zodiac Sign</button>
+    </form>
+    <p id="result"></p>
+
+    <script>
+        function findZodiacSign() {
+            const birthdate = new Date(document.getElementById("birthdate").value);
+            const month = birthdate.getMonth() + 1;
+            const day = birthdate.getDate();
+            let zodiacSign = "";
+
+            if ((month == 3 && day >= 21) || (month == 4 && day <= 19)) {
+                zodiacSign = "Aries";
+            } else if ((month == 4 && day >= 20) || (month == 5 && day <= 20)) {
+                zodiacSign = "Taurus";
+            } else if ((month == 5 && day >= 21) || (month == 6 && day <= 20)) {
+                zodiacSign = "Gemini";
+            } else if ((month == 6 && day >= 21) || (month == 7 && day <= 22)) {
+                zodiacSign = "Cancer";
+            } else if ((month == 7 && day >= 23) || (month == 8 && day <= 22)) {
+                zodiacSign = "Leo";
+            } else if ((month == 8 && day >= 23) || (month == 9 && day <= 22)) {
+                zodiacSign = "Virgo";
+            } else if ((month == 9 && day >= 23) || (month == 10 && day <= 22)) {
+                zodiacSign = "Libra";
+            } else if ((month == 10 && day >= 23) || (month == 11 && day <= 21)) {
+                zodiacSign = "Scorpio";
+            } else if ((month == 11 && day >= 22) || (month == 12 && day <= 21)) {
+                zodiacSign = "Sagittarius";
+            } else if ((month == 12 && day >= 22) || (month == 1 && day <= 19)) {
+                zodiacSign = "Capricorn";
+            } else if ((month == 1 && day >= 20) || (month == 2 && day <= 18)) {
+                zodiacSign = "Aquarius";
+            } else if ((month == 2 && day >= 19) || (month == 3 && day <= 20)) {
+                zodiacSign = "Pisces";
+            }
+
+            document.getElementById("result").innerHTML = `Your Zodiac Sign is ${zodiacSign}.`;
+        }
+    </script>
+</body>
+</html>
+
+```
+
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -53,9 +111,9 @@ footnotes = "<!DOCTYPE html>\n\n<html lang=\"de\">\n<head>\n    <meta charset=\"
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -634,9 +692,9 @@ footnotes = "<!DOCTYPE html>\n\n<html lang=\"de\">\n<head>\n    <meta charset=\"
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -663,7 +721,7 @@ footnotes = "<!DOCTYPE html>\n\n<html lang=\"de\">\n<head>\n    <meta charset=\"
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
