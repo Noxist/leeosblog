@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = ""
-logo = ""
-image = "/media/whatsapp-bild-2023-03-19-um-13.03.18.jpg"
+icon = "/media/a21cq2uzv0ceprjdxzh6_4x.jpg"
+logo = "/media/hjdrsj72wglcplxdfccm_4x.jpg"
+image = "/media/rsz_xtinvaknelxbbevrerx2_20x.jpg"
 color = "#5d9fbd"
 +++
