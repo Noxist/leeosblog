@@ -3,7 +3,7 @@ title = "Gender Diktatur einer intellektuellen Minderheit"
 date = "2023-03-19"
 draft = false
 pinned = false
-tags = ["Geschlechterdebatte", "Gleichberechtigung", "Sensibilisierung im Sprachbereich", "\"woke Kultur\"", "Genderstern", "Bundeskanzlei", "Sprachwandel", "Genderwahn", "Diskriminierung", "politische Arbeit", "intellektuelle Minderheit", "Frauenanteil im Parlament", "Lohnungleichheit", "Teilzeit/Vollzeit", "Bundesamt für Statistik."]
+tags = []
 image = "whatsapp-bild-2023-03-18-um-17.46.35.jpg"
 description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Interview seine Sicht auf die Sensibilisierung für das Thema der Gleichberechtigung und Veränderungen im Sprachbereich. Er ist besorgt über die \"Gender Diktatur\" einer intellektuellen Minderheit und unterstützt das Verbot des Gendersterns durch die Bundeskanzlei. Trotzdem glaubt er, dass es in der Schweiz bereits Gleichberechtigung gibt, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt."
 footnotes = "<!DOCTYPE html>\n\n<html lang=\"de\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Interview Werner Salzmann</title>\n</head>\n<body>\n    <p style=\"font-size: 120%;\">In diesem Interview äußert sich Werner Salzmann kritisch gegenüber der Sensibilisierung im Sprachbereich und der \"Gender Diktatur\" einer intellektuellen Minderheit. Er befürwortet die Entscheidung der Bundeskanzlei, den Genderstern zu verbieten, und glaubt, dass Gleichberechtigung in der Schweiz bereits Alltag ist, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt.</p>\n</body>\n</html>"
