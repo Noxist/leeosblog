@@ -12,13 +12,13 @@ footnotes = "<!--\\[if gte mso 9]><xml>\n <o:OfficeDocumentSettings>\n  <o:Allow
 
 {{<lead>}}
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -58,9 +58,9 @@ footnotes = "<!--\\[if gte mso 9]><xml>\n <o:OfficeDocumentSettings>\n  <o:Allow
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -639,9 +639,9 @@ footnotes = "<!--\\[if gte mso 9]><xml>\n <o:OfficeDocumentSettings>\n  <o:Allow
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -670,7 +670,7 @@ footnotes = "<!--\\[if gte mso 9]><xml>\n <o:OfficeDocumentSettings>\n  <o:Allow
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -682,17 +682,13 @@ In einem Interview spreche ich mit Christian Wasserfallen über seine Erfahrunge
 
 <!--EndFragment-->
 
-
-
-
-
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -732,9 +728,9 @@ In einem Interview spreche ich mit Christian Wasserfallen über seine Erfahrunge
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1313,9 +1309,9 @@ In einem Interview spreche ich mit Christian Wasserfallen über seine Erfahrunge
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1344,7 +1340,7 @@ In einem Interview spreche ich mit Christian Wasserfallen über seine Erfahrunge
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -1371,7 +1367,5 @@ Nein, die Schulen und alle anderen sollten sich an die Praxis halten, die von de
 • Könnte die Sensibilisierung für Themen der Gleichberechtigung die Svp als Partei schwächen?
 
 Das glaube ich nicht. Die SVP will das Thema ja proaktiv angehen. Das wird eher den anderen Parteien schaden.
-
-<!--EndFragment-->
 
 <!--EndFragment-->
