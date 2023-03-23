@@ -698,7 +698,9 @@ Im Rahmen von einem Journalismusprojekt zum Thema Geschlecht, Persönlichkeit un
 
 **Machen Sie sich aufgrund der Sensibilisierung Sorgen, dass Ihnen ein Fehler passieren könnte, wie dem Nationalrat Andreas Glarner, der sagte: «Recht und Ordnung Frau Arschlan, das gibt es in Ihrem Staat nicht.»?**
 
-**W. Salzmann:** Ich möchte nicht kommentieren, was er gesagt hat. Ich wurde so erzogen, dass man respektvoll mit anderen Menschen umgeht, und das tue ich. *«Eine intellektuelle Minderheit möchte uns vorschreiben, wie wir zu sprechen haben und dies gesetzlich verankern. Das führt dazu, dass Pesonen, welche das Thema nicht verstehen oder es nicht verstehen wollen gesetzlich bestraft werden können.»*
+**W. Salzmann:** Ich möchte nicht kommentieren, was er gesagt hat. Ich wurde so erzogen, dass man respektvoll mit anderen Menschen umgeht, und das tue ich.
+
+> «Eine intellektuelle Minderheit möchte uns vorschreiben, wie wir zu sprechen haben und dies gesetzlich verankern. Das führt dazu, dass Pesonen, welche das Thema nicht verstehen oder es nicht verstehen wollen gesetzlich bestraft werden können.»
 
 <!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
