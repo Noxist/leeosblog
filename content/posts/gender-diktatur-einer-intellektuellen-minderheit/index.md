@@ -1,5 +1,5 @@
 +++
-title = "Gender Diktatur einer intellektuellen Minderheit"
+title = "\"Eine intellektuelle Minderheit möchte uns vorschreiben, wie wir zu sprechen haben\""
 date = "2023-03-19"
 draft = false
 pinned = false
