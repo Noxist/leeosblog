@@ -1350,11 +1350,11 @@ In einem Interview spreche ich mit Christian Wasserfallen über seine Erfahrunge
 
 • Hat sich Ihre Arbeit durch die Sensibilisierung für Gleichberechtigung verändert?
 
-Ja, es bestärkt mich immer mehr darin, dass wir bei der Gleichberechtigung sehr weit sind und wir nicht in allen möglichen Themengebieten detaillierte Regelungen brauchen. Zudem sollen Regulierungen nicht dazu führen, dass sich die Gesellschaft aufspaltet.
+**C. Wasserfallen:** Ja, es bestärkt mich immer mehr darin, dass wir bei der Gleichberechtigung sehr weit sind und wir nicht in allen möglichen Themengebieten detaillierte Regelungen brauchen. Zudem sollen Regulierungen nicht dazu führen, dass sich die Gesellschaft aufspaltet.
 
 • Machen Sie sich Sorgen, dass Ihnen ein Fehler wie Andreas Glarner passiert?
 
-Welchen Fehler hat er begangen, das habe ich nicht mitgekriegt.
+**C. Wasserfallen:** Welchen Fehler hat er begangen, das habe ich nicht mitgekriegt.
 
 • Sind Sie mit dem Entscheid der Bundeskanzlei über die Verwendung des Gendersterns einverstanden?
 
