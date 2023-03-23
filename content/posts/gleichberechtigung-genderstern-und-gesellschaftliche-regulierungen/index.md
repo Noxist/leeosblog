@@ -2,7 +2,7 @@
 title = "Gleichberechtigung, Genderstern und gesellschaftliche Regulierungen"
 date = "2023-03-23"
 draft = false
-pinned = false
+pinned = true
 tags = ["Gleichberechtigung", "Genderstern", "Regulierungen", "Bundeskanzlei", "ChristianWasserfallen"]
 image = "rsz_bundeshaus-1432221_1280.jpg"
 description = "Christian Wasserfallen ist der Meinung, dass wir bei der Gleichberechtigung bereits weit fortgeschritten sind und nicht in allen Bereichen detaillierte Regelungen brauchen. Er befürwortet den Entscheid der Bundeskanzlei, dass die Verwendung des Gender-Sterns nicht vorgesehen ist und ist gegen die Einführung von Toiletten für alle."
