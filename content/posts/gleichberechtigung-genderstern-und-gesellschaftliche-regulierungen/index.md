@@ -12,13 +12,13 @@ footnotes = "<!--\\[if gte mso 9]><xml>\n <o:OfficeDocumentSettings>\n  <o:Allow
 
 {{<lead>}}
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -58,9 +58,9 @@ footnotes = "<!--\\[if gte mso 9]><xml>\n <o:OfficeDocumentSettings>\n  <o:Allow
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -639,9 +639,9 @@ footnotes = "<!--\\[if gte mso 9]><xml>\n <o:OfficeDocumentSettings>\n  <o:Allow
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -670,24 +670,29 @@ footnotes = "<!--\\[if gte mso 9]><xml>\n <o:OfficeDocumentSettings>\n  <o:Allow
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-In einem Interview spreche ich mit Christian Wasserfallen über seine Erfahrungen mit der Sensibilisierung für Gleichberechtigung, seine Sichtweise auf gesellschaftliche Regulierungen und den Gebrauch des Gendersterns. Wir diskutieren auch, ob die Einführung einer Toilette für alle sinnvoll ist und wie die Sensibilisierung für Gleichberechtigung die politische Landschaft beeinflussen könnte.
+{{</lead>}}
 
-<!--EndFragment-->
+In einem Interview spreche ich mit Christian Wasserfallen über seine Erfahrungen mit der Sensibilisierung für Gleichberechtigung, seine Sichtweise auf gesellschaftliche Regulierungen und den Gebrauch des Gendersterns. Wir diskutieren auch, ob die Einführung einer Toilette für alle sinnvoll ist und wie die Sensibilisierung für Gleichberechtigung die politische Landschaft beeinflussen könnte.
 
 {{</lead>}}
 
-\
-<!--\[if gte mso 9]><xml>
+<!--EndFragment-->
+
+
+
+
+
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -727,9 +732,9 @@ In einem Interview spreche ich mit Christian Wasserfallen über seine Erfahrunge
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1308,9 +1313,9 @@ In einem Interview spreche ich mit Christian Wasserfallen über seine Erfahrunge
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1339,7 +1344,7 @@ In einem Interview spreche ich mit Christian Wasserfallen über seine Erfahrunge
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
