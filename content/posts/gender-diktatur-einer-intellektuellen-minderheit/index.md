@@ -7,13 +7,13 @@ image = "whatsapp-bild-2023-03-18-um-17.46.35.jpg"
 description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Interview seine Sicht auf die Sensibilisierung für das Thema der Gleichberechtigung und Veränderungen im Sprachbereich. Er ist besorgt über die \"Gender Diktatur\" einer intellektuellen Minderheit und unterstützt das Verbot des Gendersterns durch die Bundeskanzlei. Trotzdem glaubt er, dass es in der Schweiz bereits Gleichberechtigung gibt, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt."
 footnotes = "<!DOCTYPE html>\n\n<html lang=\"de\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Interview Werner Salzmann</title>\n</head>\n<body>\n    <p style=\"font-size: 120%;\">In diesem Interview äußert sich Werner Salzmann kritisch gegenüber der Sensibilisierung im Sprachbereich und der \"Gender Diktatur\" einer intellektuellen Minderheit. Er befürwortet die Entscheidung der Bundeskanzlei, den Genderstern zu verbieten, und glaubt, dass Gleichberechtigung in der Schweiz bereits Alltag ist, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt.</p>\n</body>\n</html>"
 +++
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -53,9 +53,9 @@ footnotes = "<!DOCTYPE html>\n\n<html lang=\"de\">\n<head>\n    <meta charset=\"
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -634,9 +634,9 @@ footnotes = "<!DOCTYPE html>\n\n<html lang=\"de\">\n<head>\n    <meta charset=\"
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 10]>
+<!--\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -663,7 +663,7 @@ footnotes = "<!DOCTYPE html>\n\n<html lang=\"de\">\n<head>\n    <meta charset=\"
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\\[endif]-->
+<!\\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -697,15 +697,15 @@ Im Rahmen von einem Journalismusprojekt zum Thema Geschlecht, Persönlichkeit un
 
 **Machen Sie sich aufgrund der Sensibilisierung Sorgen, dass Ihnen ein Fehler passieren könnte, wie dem Nationalrat Andreas Glarner, der sagte: «Recht und Ordnung Frau Arschlan, das gibt es in Ihrem Staat nicht.»?**
 
-**W. Salzmann:** Ich möchte nicht kommentieren, was er gesagt hat. Ich wurde so erzogen, dass man respektvoll mit anderen Menschen umgeht, und das tue ich. Deswegen mache ich mir bei diesem Punkt keine Sorgen. Was mich mehr besorgt ist, wenn eine "Intellektuelle Minderheit" der Mehrheit vorschreibt, wie sie sprechen sollte und das gesetzlich verankern will, sodass jene, die das Thema nicht verstehen oder nicht verstehen wollen, dafür bezahlen müssen.
+**W. Salzmann:** Ich möchte nicht kommentieren, was er gesagt hat. Ich wurde so erzogen, dass man respektvoll mit anderen Menschen umgeht, und das tue ich. *«Eine intellektuelle Minderheit möchte uns vorschreiben, wie wir zu sprechen haben und dies gesetzlich verankern. Das führt dazu, dass Pesonen, welche das Thema nicht verstehen oder es nicht verstehen wollen gesetzlich bestraft werden können.»*
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -745,9 +745,9 @@ Im Rahmen von einem Journalismusprojekt zum Thema Geschlecht, Persönlichkeit un
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1326,9 +1326,9 @@ Im Rahmen von einem Journalismusprojekt zum Thema Geschlecht, Persönlichkeit un
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1357,7 +1357,7 @@ Im Rahmen von einem Journalismusprojekt zum Thema Geschlecht, Persönlichkeit un
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
