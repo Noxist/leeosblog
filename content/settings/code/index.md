@@ -1,5 +1,5 @@
 +++
 headless = true
-siteHeader = "<meta name=\"msvalidate.01\" content=\"FFBF189B9EA6F8CDA404C0AAF33DCFF8\" />"
+siteHeader = "<meta name=\"msvalidate.01\" content=\"FFBF189B9EA6F8CDA404C0AAF33DCFF8\" />\n<!DOCTYPE html>\n<html lang=\"de\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Leandro Aeschbacher</title>\n    <meta name=\"msvalidate.01\" content=\"FFBF189B9EA6F8CDA404C0AAF33DCFF8\">\n    <meta name=\"description\" content=\"Schweizer Politik kurz und prägnant zusammengefasst und leicht verständlich. Interviews, die nicht nur für Erwachsene interessant sind.\">\n    <meta name=\"keywords\" content=\"Schweiz, Politik, Interviews, Blog, Leandro, Leandro Aeschbacher, Aeschbacher, Aeschbacher Leandro, Werner Salzmann, Christian Wasserfallen, SVP, FDP, SP, CVP, Gendern, Wokekultur, Cancel-Kultur, Genderstern, Toiletten für alle, Feminismus\">\n    <meta name=\"robots\" content=\"index, follow\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n  </head>\n  <body>\n    <h1>Willkommen auf meiner Webseite</h1>\n    <p>Hier finden Sie interessante Informationen zu verschiedenen Themen.</p>\n  </body>\n</html>"
 siteFooter = ""
 +++
