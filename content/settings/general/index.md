@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Leandro Aeschbacher"
-description = "Schweizer Politik kurz und prägnant zusammengefasst und leicht verständlich. Interviews, die nicht nur für Erwachsene interessant sind."
+description = "Politik der Schweiz"
 footerLeft = ""
 footerRight = ""
 +++
