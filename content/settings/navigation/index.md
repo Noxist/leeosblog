@@ -3,9 +3,9 @@ headless = true
 
 [[link]]
 title = "Home"
-url = "https://leeos.netlify.app/"
+url = "https://leosperspektive.ch/"
 
 [[link]]
 title = "About me"
-url = "https://leeos.netlify.app/aboutme/"
+url = "https://leosperspektive.ch/aboutme/"
 +++
