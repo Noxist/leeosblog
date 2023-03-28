@@ -1,7 +1,7 @@
 +++
 title = "Christian Wasserfallen im Interview: Wie beeinflusst die Sensibilisierung für Gleichberechtigung seine Arbeit?"
 date = "2023-03-28"
-draft = false
+draft = true
 pinned = false
 description = "Christian Wasserfallen begrüßt die Sensibilisierung für Gleichberechtigung, betont jedoch, dass nicht alle Bereiche detaillierte Regelungen benötigen und Regulierungen nicht zu einer Spaltung der Gesellschaft führen sollten. Er unterstützt den Entscheid der Bundeskanzlei gegen den Genderstern und fordert Institutionen auf, sich an diese Praxis zu halten. Wasserfallen glaubt nicht, dass die Sensibilisierung die SVP schwächen wird, da diese das Thema bereits proaktiv angeht."
 footnotes = "<!--StartFragment-->\n\nChristian Wasserfallen sieht die Sensibilisierung für Themen der Gleichberechtigung als positiv an, betont jedoch auch, dass nicht in allen Bereichen detaillierte Regelungen nötig sind und Regulierungen nicht zu einer Spaltung der Gesellschaft führen sollten. In Bezug auf den Genderstern unterstützt er den Entscheid der Bundeskanzlei, da er die Lesbarkeit der deutschen Sprache beeinträchtigt. Wasserfallen lehnt die Einführung einer Toilette für alle ab und fordert, dass Schulen und andere Institutionen sich an die Praxis halten sollten, die von der Bundeskanzlei vorgegeben wird. Darüber hinaus glaubt er nicht, dass die Sensibilisierung für Themen der Gleichberechtigung die SVP als Partei schwächen wird, da diese das Thema bereits proaktiv angeht.\n\n<!--EndFragment-->"
