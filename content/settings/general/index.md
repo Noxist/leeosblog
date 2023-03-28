@@ -1,5 +1,7 @@
 +++
 headless = true
+title = "Leos Perspektive"
+description = "Politik der Schweiz"
 footerLeft = ""
 footerRight = ""
 +++
