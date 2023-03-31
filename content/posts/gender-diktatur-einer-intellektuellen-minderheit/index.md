@@ -8,7 +8,7 @@ image = "whatsapp-bild-2023-03-18-um-17.46.35.jpg"
 description = "Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Interview seine Sicht auf die Sensibilisierung für das Thema der Gleichberechtigung und Veränderungen im Sprachbereich. Er ist besorgt über die \"Gender Diktatur\" einer intellektuellen Minderheit und unterstützt das Verbot des Gendersterns durch die Bundeskanzlei. Trotzdem glaubt er, dass es in der Schweiz bereits Gleichberechtigung gibt, obwohl es immer noch Unterschiede bei der Bezahlung von Teilzeit- und Vollzeitarbeit gibt."
 footnotes = "<!DOCTYPE html>\n\n<html lang=\"de\">\n<head> <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gender Diktatur einer intellektuellen Minderheit - Interview mit Werner Salzmann</title>
+  <title>Gender Diktatur einer intellektuellen Minderheit</title>
   <meta name="description" content="Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Interview seine Sicht auf die Sensibilisierung für das Thema der Gleichberechtigung und Veränderungen im Sprachbereich. Er ist besorgt über die 'Gender Diktatur' einer intellektuellen Minderheit und unterstützt das Verbot des Gendersterns durch die Bundeskanzlei.">
   <meta name="keywords" content="Werner Salzmann, Gender Diktatur, Gleichberechtigung, Schweiz, Bundeskanzlei">
   <meta name="author" content="Leandro Aeschbacher">
@@ -23,6 +23,7 @@ footnotes = "<!DOCTYPE html>\n\n<html lang=\"de\">\n<head> <meta charset="UTF-8"
   <meta name="twitter:image" content="https://leosperspektive.ch/gender-diktatur-einer-intellektuellen-minderheit/whatsapp-bild-2023-03-18-um-17.46.35.jpg">
 </head>"
 +++
+
 <!--\\\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
@@ -715,7 +716,7 @@ Im Rahmen von einem Journalismusprojekt zum Thema Geschlecht, Persönlichkeit un
 
 **W. Salzmann:** Ich möchte nicht kommentieren, was er gesagt hat. Ich wurde so erzogen, dass man respektvoll mit anderen Menschen umgeht, und das tue ich.
 
-> *«Eine intellektuelle Minderheit möchte ihr Sprachideal gesetzlich verankern, was zu Bestrafungen von Unwissenden und Andersdenkenden führt. Das macht mir Sorgen!»*
+> _«Eine intellektuelle Minderheit möchte ihr Sprachideal gesetzlich verankern, was zu Bestrafungen von Unwissenden und Andersdenkenden führt. Das macht mir Sorgen!»_
 
 <!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
