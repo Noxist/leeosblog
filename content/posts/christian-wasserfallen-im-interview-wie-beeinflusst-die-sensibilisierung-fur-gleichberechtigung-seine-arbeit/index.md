@@ -3,9 +3,10 @@ title = "Christian Wasserfallen im Interview: Wie beeinflusst die Sensibilisieru
 date = "2023-03-28"
 draft = true
 pinned = false
-description = "Christian Wasserfallen begrüßt die Sensibilisierung für Gleichberechtigung, betont jedoch, dass nicht alle Bereiche detaillierte Regelungen benötigen und Regulierungen nicht zu einer Spaltung der Gesellschaft führen sollten. Er unterstützt den Entscheid der Bundeskanzlei gegen den Genderstern und fordert Institutionen auf, sich an diese Praxis zu halten. Wasserfallen glaubt nicht, dass die Sensibilisierung die SVP schwächen wird, da diese das Thema bereits proaktiv angeht."
+description = Wasserfallen unterstützt Gleichberechtigung, aber warnt vor zu vielen Regulierungen und Spaltung. Er lehnt Genderstern ab und fordert Institutionen auf, dies zu befolgen. Die Sensibilisierung wird die SVP nicht schwächen, sagt er.
 footnotes = "<!--StartFragment-->\n\nChristian Wasserfallen sieht die Sensibilisierung für Themen der Gleichberechtigung als positiv an, betont jedoch auch, dass nicht in allen Bereichen detaillierte Regelungen nötig sind und Regulierungen nicht zu einer Spaltung der Gesellschaft führen sollten. In Bezug auf den Genderstern unterstützt er den Entscheid der Bundeskanzlei, da er die Lesbarkeit der deutschen Sprache beeinträchtigt. Wasserfallen lehnt die Einführung einer Toilette für alle ab und fordert, dass Schulen und andere Institutionen sich an die Praxis halten sollten, die von der Bundeskanzlei vorgegeben wird. Darüber hinaus glaubt er nicht, dass die Sensibilisierung für Themen der Gleichberechtigung die SVP als Partei schwächen wird, da diese das Thema bereits proaktiv angeht.\n\n<!--EndFragment-->"
 +++
+
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
@@ -678,7 +679,7 @@ Als Politiker hat Christian Wasserfallen in seiner Karriere immer wieder mit The
 
 <!--\[if !supportLists]-->·       <!--\[endif]-->Hat sich Ihre Arbeit durch die Sensibilisierung für Gleichberechtigung verändert?
 
-Ja, es bestärkt mich immer mehr darin, dass wir bei der Gleichberechtigung sehr weit sind und wir nicht in allen möglichen Themengebieten detaillierte Regelungen brauchen. Zudem sollen Regulierungen nicht dazu führen, dass sich die Gesellschaft aufspaltet. 
+Ja, es bestärkt mich immer mehr darin, dass wir bei der Gleichberechtigung sehr weit sind und wir nicht in allen möglichen Themengebieten detaillierte Regelungen brauchen. Zudem sollen Regulierungen nicht dazu führen, dass sich die Gesellschaft aufspaltet.
 
 {{<box>}}
 
@@ -686,7 +687,7 @@ Christian Wasserfallen ist ein Schweizer Politiker der FDP.Die Liberalen. Er wur
 
 {{<box>}}
 
- 
+
 
 <!--\[if !supportLists]-->·       <!--\[endif]-->Sind Sie mit dem Entscheid der Bundeskanzlei über die Verwendung des Gendersterns einverstanden?
 
@@ -704,6 +705,6 @@ Nein, die Schulen und alle anderen sollten sich an die Praxis halten, die von de
 
 Das glaube ich nicht. Die SVP will das Thema ja proaktiv angehen. Das wird eher den anderen Parteien schaden.
 
- 
+
 
 <!--EndFragment-->
