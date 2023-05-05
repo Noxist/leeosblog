@@ -1,13 +1,10 @@
-+++
-title = "Gender Diktatur einer intellektuellen Minderheit"
-date = "2023-03-19"
-draft = false
-pinned = true
-tags = []
-image = "whatsapp-bild-2023-03-18-um-17.46.35.jpg"
-description = "Werner Salzmann, SVP Nationalrat aus Bern, kritisiert die \"Gender Diktatur\" einer Minderheit und unterstützt das Genderstern-Verbot. Er glaubt, dass es in der Schweiz bereits Gleichberechtigung gibt, trotz Lohnunterschieden zwischen Teilzeit- und Vollzeitarbeit."
-footnotes = "<!DOCTYPE html>\n\n<html lang=\"de\">\n<head> <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+title: "Gender Diktatur einer intellektuellen Minderheit"
+date: "2023-03-19"
+draft: false
+pinned: true
+tags: []
+image: "whatsapp-bild-2023-03-18-um-17.46.35.jpg"
+description: "Werner Salzmann, SVP Nationalrat aus Bern, kritisiert die \"Gender Diktatur\" einer Minderheit und unterstützt das Genderstern-Verbot. Er glaubt, dass es in der Schweiz bereits Gleichberechtigung gibt, trotz Lohnunterschieden zwischen Teilzeit- und Vollzeitarbeit."
   <title>Gender Diktatur einer intellektuellen Minderheit</title>
   <meta name="description" content="Werner Salzmann, ein SVP Nationalrat aus Bern, zeigt in einem Interview seine Sicht auf die Sensibilisierung für das Thema der Gleichberechtigung und Veränderungen im Sprachbereich. Er ist besorgt über die 'Gender Diktatur' einer intellektuellen Minderheit und unterstützt das Verbot des Gendersterns durch die Bundeskanzlei.">
   <meta name="keywords" content="Werner Salzmann, Gender Diktatur, Gleichberechtigung, Schweiz, Bundeskanzlei">
