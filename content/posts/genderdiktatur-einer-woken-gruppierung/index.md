@@ -1,7 +1,7 @@
 +++
 title = "Genderdiktatur einer woken Gruppierung"
 date = "2023-05-05"
-draft = true
+draft = false
 pinned = false
 image = "selifei-leandro-werner.jpg"
 +++
