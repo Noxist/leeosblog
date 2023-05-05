@@ -1,6 +1,6 @@
 [build]
-  command = "hugo"
-  publish = "public"
+publish = "public"
+command = "hugo --baseURL $URL --enableGitInfo"
 
 [build.environment]
 HUGO_VERSION = "0.105.0"
